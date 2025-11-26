@@ -1,0 +1,9 @@
+{
+  "token": "PUT_TELEGRAM_TOKEN_HERE",
+  "target_chat_id": 0,
+  "holidays_cache_path": "data/holidays.json",
+  "holidays_autopost_time": "00:00",
+  "admin_user_ids": []
+}
+
+
